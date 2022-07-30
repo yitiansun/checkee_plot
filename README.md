@@ -1,2 +1,2 @@
 # checkee_plot
-Plotting information on checkee.info
+Plotting visa check cases on [checkee.info](https://checkee.info/).
